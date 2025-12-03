@@ -29,13 +29,10 @@
 
 ## 📊 GitHub Stats
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davicw9&show_icons=true&theme=tokyonight)
+![Davi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davicw9&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davicw9&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davicw9&layout=compact&theme=tokyonight)
+
 
 ---
-
-## 🚀 Sobre mim
-
-Atualmente, estou aprimorando minhas habilidades em **Java**, **Spring** e **banco de dados**, com foco no desenvolvimento de **soluções eficientes e escaláveis** no Back-End.
 
